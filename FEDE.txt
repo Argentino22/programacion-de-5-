@@ -1,0 +1,286 @@
+Actividad 1 – Población, muestra y unidad estadística
+
+1. ¿Cuál es el objetivo de esta investigación?
+El objetivo es conocer qué piensan los estudiantes de quinto año sobre la política y algunos temas de la situación del país.
+
+2. ¿Cuál es la población de interés?
+La población son los estudiantes de quinto año de la institución.
+
+3. ¿Cuántos estudiantes participaron de la encuesta?
+En el Excel hay **35 estudiantes** que respondieron.
+
+4. ¿Los estudiantes encuestados son una población o una muestra?
+Son una "muestra", porque no necesariamente están todos los estudiantes de quinto año, sino una parte.
+
+5. ¿Cuál es la unidad estadística?
+Cada estudiante que respondió la encuesta.
+
+6. ¿Qué debería cumplirse para considerar que los datos corresponden a toda la población?
+Tendrían que haber respondido todos los estudiantes que forman parte de la población que se quiere estudiar.
+
+7. ¿Los resultados pueden generalizarse a todos los estudiantes de quinto año?
+No podemos asegurarlo solamente con estos datos. Necesitaríamos saber cuántos estudiantes hay en total y si los que respondieron representan bien al grupo completo.
+
+8. ¿Qué procedimiento podría utilizarse para seleccionar una muestra representativa?
+Se podría elegir a estudiantes al azar, tratando de que estén representados los distintos cursos o grupos de quinto año.
+
+
+
+# Actividad 2 – Variables
+
+| Variable                             | Naturaleza   | Tipo     | Categorías o valores                                                          |
+| ------------------------------------ | ------------ | -------- | ----------------------------------------------------------------------------- |
+| Situación política actual            | Cualitativa  | Ordinal  | Muy buena, Buena, Regular, Mala                                               |
+| Rumbo general del país               | Cualitativa  | Ordinal  | Correcta, Incorrecta, No estoy seguro/a, Prefiero no responder                |
+| Agrupación política que votaría      | Cualitativa  | Nominal  | LLA, Izquierda, peronismo, Pro, kirchnerismo                                  |
+| Evaluación de las medidas económicas | Cualitativa  | Ordinal  | Muy positivamente, Positivamente, Ni positiva ni negativamente, Negativamente |
+| Principal problema de Argentina      | Cualitativa  | Nominal  | Inflación y costo de vida, Bajos salarios, Inseguridad, Falta de empleo       |
+| Interés por la política              | Cualitativa  | Ordinal  | Nada, Poco, Bastante, Mucho                                                   |
+| Confianza en los medios              | Cualitativa  | Ordinal  | Nada confiable, Poco confiable, Confiable, Muy confiable                      |
+| Continuidad o cambio de Gobierno     | Cualitativa  | Nominal  | Que siga, Que venga otro, No sé                                               |
+| Puntuación                           | Cuantitativa | Discreta | Números enteros                                                               |
+
+9. ¿Cuáles son variables cualitativas nominales?
+La agrupación política que votaría y el principal problema de Argentina.
+
+10. ¿Cuáles son variables cualitativas ordinales?
+La situación política, el rumbo del país, la evaluación de las medidas económicas, el interés por la política y la confianza en los medios.
+
+11. ¿Existe alguna variable cuantitativa discreta? ¿Cuál?
+Sí. La puntuación, porque está expresada con números enteros.
+
+12. ¿Por qué la agrupación política elegida es una variable nominal?
+Porque son diferentes categorías y no tienen un orden de mayor a menor.
+
+13. ¿Por qué el interés por la política puede considerarse una variable ordinal?
+Porque las respuestas tienen un orden: nada, poco, bastante y mucho.
+
+14. ¿Las columnas Nombre y Marca temporal son variables centrales?
+No. El nombre no es necesario para analizar las opiniones y la marca temporal tampoco es importante para responder al objetivo principal.
+
+---
+
+# Actividad 3 – Tablas de frecuencia
+
+## Situación política actual
+
+| Categoría |     fi |    hi | Porcentaje |
+| --------- | -----: | ----: | ---------: |
+| Muy buena |      3 | 0,086 |       8,6% |
+| Buena     |      5 | 0,143 |      14,3% |
+| Regular   |     15 | 0,429 |      42,9% |
+| Mala      |     12 | 0,343 |      34,3% |
+| **Total** | **35** | **1** |   **100%** |
+
+## Rumbo general del país
+
+| Categoría                     |     fi |    hi | Porcentaje |
+| ----------------------------- | -----: | ----: | ---------: |
+| Va en la dirección correcta   |      9 | 0,257 |      25,7% |
+| Va en la dirección incorrecta |      9 | 0,257 |      25,7% |
+| No estoy seguro/a             |     15 | 0,429 |      42,9% |
+| Prefiero no responder         |      2 | 0,057 |       5,7% |
+| **Total**                     | **35** | **1** |   **100%** |
+
+## Agrupación política que votaría
+
+| Categoría          |     fi |    hi | Porcentaje |
+| ------------------ | -----: | ----: | ---------: |
+| La Libertad Avanza |     18 | 0,514 |      51,4% |
+| Izquierda          |      8 | 0,229 |      22,9% |
+| peronismo          |      6 | 0,171 |      17,1% |
+| Pro                |      2 | 0,057 |       5,7% |
+| kirchnerismo       |      1 | 0,029 |       2,9% |
+| **Total**          | **35** | **1** |   **100%** |
+
+## Evaluación de las medidas económicas
+
+| Categoría                    |     fi |    hi | Porcentaje |
+| ---------------------------- | -----: | ----: | ---------: |
+| Muy positivamente            |      2 | 0,057 |       5,7% |
+| Positivamente                |      6 | 0,171 |      17,1% |
+| Ni positiva ni negativamente |     18 | 0,514 |      51,4% |
+| Negativamente                |      9 | 0,257 |      25,7% |
+| **Total**                    | **35** | **1** |   **100%** |
+
+## Principal problema de Argentina
+
+| Categoría                 |     fi |    hi | Porcentaje |
+| ------------------------- | -----: | ----: | ---------: |
+| Inflación y costo de vida |     18 | 0,514 |      51,4% |
+| Bajos salarios            |     11 | 0,314 |      31,4% |
+| Inseguridad               |      5 | 0,143 |      14,3% |
+| Falta de empleo           |      1 | 0,029 |       2,9% |
+| **Total**                 | **35** | **1** |   **100%** |
+
+## Interés por la política
+
+| Categoría |     fi |    hi | Porcentaje |
+| --------- | -----: | ----: | ---------: |
+| Nada      |      5 | 0,143 |      14,3% |
+| Poco      |     18 | 0,514 |      51,4% |
+| Bastante  |      6 | 0,171 |      17,1% |
+| Mucho     |      6 | 0,171 |      17,1% |
+| **Total** | **35** | **1** |   **100%** |
+
+## Confianza en los medios
+
+| Categoría      |     fi |    hi | Porcentaje |
+| -------------- | -----: | ----: | ---------: |
+| Nada confiable |      1 | 0,029 |       2,9% |
+| Poco confiable |     26 | 0,743 |      74,3% |
+| Confiable      |      7 | 0,200 |      20,0% |
+| Muy confiable  |      1 | 0,029 |       2,9% |
+| **Total**      | **35** | **1** |   **100%** |
+
+## Continuidad o cambio de Gobierno
+
+| Categoría          |     fi |    hi | Porcentaje |
+| ------------------ | -----: | ----: | ---------: |
+| Sí, que siga       |     13 | 0,371 |      37,1% |
+| No, que venga otro |     13 | 0,371 |      37,1% |
+| No sé              |      9 | 0,257 |      25,7% |
+| **Total**          | **35** | **1** |   **100%** |
+
+---
+
+# Actividad 4 – Análisis de las tablas
+
+15. ¿Cuál es la opinión más frecuente sobre la situación política actual?
+La respuesta más frecuente fue "Regular", con 15 estudiantes.
+
+16. ¿Qué porcentaje considera que el país va en la dirección correcta?
+El "25,7%".
+
+17. ¿Predominan quienes consideran que el rumbo es incorrecto o quienes no están seguros?
+Predominan quienes "no están seguros", con 15 estudiantes.
+
+18. ¿Cuál es la agrupación política más elegida?
+"La Libertad Avanza", con 18 respuestas.
+
+19. ¿Qué agrupaciones presentan la menor frecuencia?
+"Kirchnerismo", con 1 respuesta, y "Pro", con 2.
+
+20. ¿Cómo evalúa la mayoría las medidas económicas?
+La mayoría respondió “Ni positiva ni negativamente”, con 18 respuestas.
+
+21. ¿Cuál es el problema del país mencionado con mayor frecuencia?
+"Inflación y costo de vida", con 18 respuestas.
+
+22. ¿Qué porcentaje seleccionó Inflación y costo de vida?
+El "51,4%".
+
+23. ¿Cuál es el nivel de interés político más frecuente?
+"Poco", con 18 estudiantes.
+
+24. ¿Cuántos estudiantes expresaron no tener interés por la política?
+"5 estudiantes".
+
+25. ¿Cuál es el nivel de confianza más frecuente respecto de los medios?
+"Poco confiable", con 26 respuestas.
+
+26. ¿Cuántos estudiantes consideran confiable la información de los medios?
+"7 estudiantes" respondieron “Confiable” y 1 “Muy confiable”.
+
+27. ¿Qué postura predomina respecto de la continuidad del Gobierno?
+Hay un empate: "13 quieren que siga y 13 quieren que venga otro". Además, 9 respondieron que no saben.
+
+28. Determiná la moda de cada variable analizada.
+
+-Situación política: "Regular"
+-Rumbo del país: "No estoy seguro/a"
+-Agrupación política: "La Libertad Avanza"
+-Medidas económicas: "Ni positiva ni negativamente"
+-Principal problema: "Inflación y costo de vida"
+-Interés por la política: "Poco"
+-Confianza en los medios: "Poco confiable"
+-Continuidad del Gobierno: "Empate entre “sí, que siga” y “no, tiene que venir otro”"
+
+29. Comprobá que la suma de las frecuencias absolutas sea 35 y que los porcentajes sumen aproximadamente 100%.
+Sí. En todas las tablas la frecuencia total es "35" y los porcentajes suman aproximadamente "100%".
+
+
+Actividad 5 – Representación gráfica
+
+30.Gráfico de barras para la situación política actual.
+
+31.Gráfico circular para el rumbo general del país.
+
+32.Gráfico de barras para la agrupación política que votarían.
+
+33.Gráfico de barras para la evaluación de las medidas económicas.
+
+34.Gráfico de barras horizontales para los principales problemas del país.
+
+35.Gráfico de barras ordenadas para el interés por la política.
+
+36.Gráfico circular para la confianza en los medios.
+
+37.Gráfico circular o de barras para la continuidad o cambio de Gobierno.
+
+En todos los gráficos:poner un título, las categorías completas, porcentajes o frecuencias y como fuente: “Encuesta realizada a estudiantes de quinto año”.
+
+
+Actividad 6 – Análisis de los gráficos
+
+38. ¿Qué categoría se destaca en el gráfico sobre la situación política?
+Se destaca "Regular", con 15 respuestas.
+
+39. ¿El gráfico del rumbo del país muestra una opinión definida o un nivel importante de indecisión?
+Muestra un nivel importante de "indecisión", porque 15 estudiantes dijeron que no están seguros.
+
+40. ¿Existe una agrupación política claramente predominante?
+Sí. En los datos aparece "La Libertad Avanza" con 18 respuestas.
+
+41. ¿Las preferencias están concentradas o distribuidas entre varias agrupaciones?
+Están distribuidas entre varias agrupaciones, aunque una tiene más respuestas que las demás.
+
+42. ¿Qué evaluación de las medidas económicas ocupa la barra más alta?
+"Ni positiva ni negativamente", con 18 respuestas.
+
+43. ¿Cuál es el principal problema señalado por los estudiantes?
+"Inflación y costo de vida".
+
+44. ¿Qué diferencia existe entre la frecuencia del problema más elegido y la del segundo?
+El primero tiene 18 respuestas y el segundo 11, por lo que hay una diferencia de "7 estudiantes".
+
+45. ¿Qué muestra el gráfico sobre el interés político de los estudiantes?
+Muestra que la respuesta más común es “Poco”.
+
+46. ¿Predomina la confianza o la desconfianza hacia los medios?
+Predomina la "desconfianza", ya que la mayoría respondió “Poco confiable”.
+
+47. ¿La mayoría prefiere la continuidad del Gobierno, un cambio o manifiesta indecisión?
+No hay una mayoría entre continuidad y cambio: ambas opciones tienen "13 respuestas". Además, 9 estudiantes están indecisos.
+
+48. ¿Qué gráfico permite comparar las categorías con mayor facilidad? Justificá.
+El "gráfico de barras", porque permite comparar rápidamente el tamaño de cada categoría.
+
+49. ¿En qué variable resulta más conveniente utilizar un gráfico circular?
+Por ejemplo, en el "rumbo general del país", porque permite ver qué porcentaje representa cada respuesta.
+
+50. ¿Por qué no corresponde utilizar un histograma para estas variables cualitativas?
+Porque el histograma se usa principalmente para datos cuantitativos. Estas variables son categorías o respuestas.
+
+51. ¿Los gráficos confirman la información presentada en las tablas?
+Sí. Los gráficos muestran visualmente las mismas frecuencias y porcentajes que aparecen en las tablas.
+
+52. Escribí tres conclusiones generales basadas exclusivamente en los datos.
+
+1. La respuesta más frecuente sobre la situación política fue “Regular”.
+2. La inflación y el costo de vida fue el problema más elegido, con el 51,4%.
+3. La mayoría indicó tener poco interés por la política y también consideró poco confiable la información de los medios.
+
+Actividad 7 – Calidad de los datos
+
+53. Revisá si existen nombres repetidos, respuestas incompletas o expresiones que dificulten la interpretación.
+Hay que revisar los nombres y las respuestas antes de entregar el trabajo. También conviene mantener escritas las categorías de la misma manera para que sea más fácil contarlas.
+
+54. La pregunta sobre los problemas del país solicita tres problemas, pero la planilla registra una sola categoría por estudiante. ¿Qué limitación produce esto?
+La encuesta no permite saber cuáles serían los tres problemas que elegiría cada estudiante. Solo queda registrado un problema por persona, por lo que se pierde parte de la información.
+
+55. ¿Qué cambios realizarías en el formulario para obtener datos más claros y fáciles de analizar?**
+Haría que cada estudiante pueda elegir exactamente tres problemas y usaría opciones iguales para todos. También evitaría respuestas escritas de diferentes formas.
+
+56. ¿Por qué es importante mantener separada la identidad de los participantes de sus opiniones políticas?
+Porque las opiniones políticas son personales y sensibles. Mantener los nombres separados ayuda a proteger la privacidad de los estudiantes.
